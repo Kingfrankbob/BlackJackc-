@@ -1,0 +1,5 @@
+C:\Users\ajwpc\Github\BlackJack\bin\Debug\net7.0\publish\BlackJack.exe
+C:\Users\ajwpc\Github\BlackJack\bin\Debug\net7.0\publish\BlackJack.dll
+C:\Users\ajwpc\Github\BlackJack\bin\Debug\net7.0\publish\BlackJack.deps.json
+C:\Users\ajwpc\Github\BlackJack\bin\Debug\net7.0\publish\BlackJack.runtimeconfig.json
+C:\Users\ajwpc\Github\BlackJack\bin\Debug\net7.0\publish\BlackJack.pdb
