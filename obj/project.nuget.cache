@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4RwP0abo+TaIjQdRCKBnTT4+m34TBKC7oNd+1OpDSnKCHIaf1cEN7H2DiecBeS9i7ABBrfvvQqnadAbyyjxH6g==",
+  "dgSpecHash": "le6r/XI4dl0u+uqlO7Jc0c20MeFbhzTh6qnbcorBdoQ6hDl9Ui6BN2BL717zGy+q5XZl0zDekPY7KiF34LlS2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ajwpc\\Github\\BlackJack\\BlackJack.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ajwpc\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.5\\microsoft.netcore.app.runtime.win-x86.7.0.5.nupkg.sha512",
+    "C:\\Users\\ajwpc\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.5.nupkg.sha512",
+    "C:\\Users\\ajwpc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x86.7.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
